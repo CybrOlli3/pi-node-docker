@@ -1,4 +1,4 @@
-FROM stellar/base:latest
+FROM stellar/base:latest@sha256:ff3084af8fe12e3831027feef869626b5827723bcd3018314cec97d7179cc71b
 
 MAINTAINER Bartek Nowotarski <bartek@stellar.org>
 
